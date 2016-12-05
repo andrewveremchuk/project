@@ -1,3 +1,44 @@
-strong {color:
-    green;}
-b { font-size:60px}
+body {
+    background-size: 100%;
+    background: linear-gradient(to bottom, rgba(235,238,235,1) 34%, rgba(165,207,27,1) 66%);
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    min-width: 240px;
+}
+strong {
+    color:green;
+    font-size:40px;
+    
+}
+.hd { font-size:40px;
+}
+nav ul {
+     
+     list-style-type: none;
+     padding: 0;
+     margin:0;
+}
+nav li {
+   border: 1px solid #000000;
+   float: left;
+   margin-right: 1px; 
+   font-family: 'Comfortaa', cursive;
+   font-size: 14px; 
+}
+nav li a {
+   display: block;
+   padding:10px 20px;
+   background: #ffffff;
+   color: #3f3f3f;
+   text-decoration: none; 
+}
+nav li a:hover {
+   background: #92d3d3;
+   color: #6b6b6b;
+}
+ #pic { width: 1000px;
+ }
+.vline{
+ border-right: 1px solid black;
+}
