@@ -13,10 +13,10 @@ strong {
     font-size:40px;
     
 }
-figure{
+.socnet{
     float:right;
-    margin:0 auto;
-    padding:0;
+    margin-top:29px;
+    margin-bottom:0;
 }
 nav ul {
      
@@ -54,7 +54,7 @@ nav li a:hover {
     font-family: 'Comfortaa', cursive;
     font-size:28px;
     color:white;
-    margin-right:30px;
+    margin-right:15px;
     float:right;
     width:450px;
     height:80px;
