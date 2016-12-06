@@ -49,7 +49,7 @@ nav li a:hover {
  width:500px;
  border-right: 1px solid black;
 }
-#insur {
+.button {
     border:0px;
     font-family: 'Comfortaa', cursive;
     font-size:28px;
@@ -72,6 +72,8 @@ iframe{
     height:600px;
     width:1000px;
 }
-.cent{
-  
+figure {
+    display:inline-flex;
+    flex-direction:column;
+    
 }
