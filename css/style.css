@@ -72,7 +72,7 @@ iframe{
     height:600px;
     width:1000px;
 }
-figure {
+#clients {
     display: inline-flex;
     flex-direction:column;
     
